@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dereje
 - 👀 I’m interested in nature and chess
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Haskell
 
 ## Social Media
 [Twitter](https://twitter.com/dereje766)  -  [LinkedIn](https://linkedin.com/in/dereje7)  -  [Telegram](https://t.me/dereje7) - [Email](mailto:ddesta777@gmail.com)
